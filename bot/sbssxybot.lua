@@ -209,6 +209,7 @@ function create_config( )
       "block",
       "block2",
       "horrorspam",
+      "horrorspam2",
       "leave",
       "plugins",
       "spam",
