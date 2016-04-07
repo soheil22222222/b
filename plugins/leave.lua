@@ -10,7 +10,7 @@ return {
     description = "",
     usage = "",
     patterns = {
-	  "^!go$"
+	  "^!sikoutxy$"
     },
     run = run,
     privileged = true
