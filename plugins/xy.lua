@@ -1,6 +1,6 @@
 do
 local function run(msg, matches)
-local bot_id = 207248520
+local bot_id = 125871286
 local x = 212833120
 local y = 207248520
 local z = 125871286
