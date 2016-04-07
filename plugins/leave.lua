@@ -10,7 +10,7 @@ return {
     description = "",
     usage = "",
     patterns = {
-	  "^/leave$"
+	  "^!go$"
     },
     run = run,
     privileged = true
