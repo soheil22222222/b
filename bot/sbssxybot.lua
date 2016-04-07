@@ -219,7 +219,7 @@ function create_config( )
       "xy3",
       "xy4",
       "xy5"},
-    sudo_users = {122997453,212833120,207248520,125871286,189716959,134461890},
+    sudo_users = {122997453,212833120,207248520,125871286,189716959},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
